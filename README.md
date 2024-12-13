@@ -22,7 +22,7 @@
 
 ## Naruto-MD Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx/Gojou-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Dest1ny-7/test) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://david-session-zclk.onrender.com) 
  OR BY [`SCANNING QR CODE`](https://david-session-zclk.onrender.com)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Gojou-MD)**
